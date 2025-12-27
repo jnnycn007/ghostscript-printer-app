@@ -453,7 +453,7 @@ also often get polled from the printer.
 
 <!-- Begin Included Components -->
 ## Included Components
-  - pappl v1.4.9
+  - pappl v1.4.10
   - qpdf v11.10.1
   - ghostscript ghostpdl-10.06.0rc1_test001
   - cups v2.4.16
