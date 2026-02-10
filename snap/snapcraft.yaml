@@ -1292,7 +1292,7 @@ parts:
     #                    https://sourceforge.net/projects/splix/
     source: https://salsa.debian.org/printing-team/splix.git
     source-type: git
-    source-tag: 'debian/2.0.1-1'
+    source-tag: 'debian/2.0.1-2'
     source-depth: 1
 # ext:updatesnap
 #   version-format:
