@@ -999,7 +999,7 @@ parts:
     # HPLIP Printer Application (with plugin loaded in-app) should be used.
     source: https://salsa.debian.org/printing-team/foo2zjs.git
     source-type: git
-    source-tag: 'debian/20200505dfsg0-4'
+    source-tag: 'debian/20200505dfsg0-5'
     source-depth: 1
 # ext:updatesnap
 #   version-format:
